@@ -1,6 +1,6 @@
 name: BROWN BLOGS
 favicon: null
-layout_spectrum: 0.24916
+layout_spectrum: 0.75647
 typography_spectrum: 0.24803
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#ffffff'
+    - '#122013'
+    - '#3e4647'
+    - '#8a979d'
+    - '#cbbbb0'
   brandStrength: 1
-  lightness: 0
+  lightness: 1
   saturation: 1
   rhythmicContrast: 0.5
 purpose: []
