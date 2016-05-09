@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BROWN BLOGS]]></title>
+        <description><![CDATA[BROWN BLOGS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 03:34:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FIRST POST]]></title>
+            <description><![CDATA[<p>First Post</p>]]></description>
+            <link>undefinedfirst-post/index.html</link>
+            <guid isPermaLink="false">e593975a-e107-4c26-8fd5-4ca454eca3d5</guid>
+            <pubDate>Mon, 09 May 2016 03:34:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
